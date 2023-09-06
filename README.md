@@ -1,4 +1,4 @@
-# Review-Classification-Using-Zero-Shot-Learning
+# Movie-Review-Classification-Using-Zero-Shot-Learning
 
 This repository contains an implentation of movie review classification using ZSL. Here, the rotten_tomatoes dataset is being used for testing purposes. Since ZSL is being implemented, the training set is being used for testing the algorithm. 
 
